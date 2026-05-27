@@ -201,4 +201,4 @@ pnpm install
 pnpm dev
 ```
 
-Open the URL Vite prints (usually `http://localhost:3000`). See [instructions.md](instructions.md) for full setup details, Windows/Ubuntu steps, and build commands.
+Open the URL Vite prints (usually `http://localhost:3000`). See [instructions.md](docs/instructions.md) for full setup details, Windows/Ubuntu steps, and build commands.
